@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCirclePlus } from '@fortawesome/free-solid-svg-icons';
-import { useState, useRef } from 'react';
+import { useState } from 'react';
 import Todo from './component/Todo';
 
 export interface TodoTpye {
